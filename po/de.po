@@ -70,7 +70,7 @@ msgstr ""
 
 #: data/metadata.appdata.xml.in:22
 msgid "Very Low DPI,"
-msgstr ""
+msgstr "Sehr niedrige DPI"
 
 #: data/metadata.appdata.xml.in:23
 msgid "Fairly Low DPI,"
@@ -82,7 +82,7 @@ msgstr ""
 
 #: data/metadata.appdata.xml.in:25
 msgid "Potentially Problematic,"
-msgstr ""
+msgstr "Potenziell Problematisch,"
 
 #: data/metadata.appdata.xml.in:26
 msgid "Ideal for HiDPI,"
@@ -134,7 +134,7 @@ msgstr ""
 
 #: data/metadata.appdata.xml.in:60
 msgid "Updated translations"
-msgstr ""
+msgstr "Übersetzungen aktualisiert"
 
 #: data/metadata.appdata.xml.in:62
 msgid "Updated Spanish translations thanks to Adolfo Jayme-Barrientos"
@@ -386,27 +386,27 @@ msgstr ""
 
 #: src/MainWindow.vala:91
 msgid "Diagonal size:"
-msgstr ""
+msgstr "Diagonale Größe:"
 
 #: src/MainWindow.vala:107
 msgid "Resolution:"
-msgstr ""
+msgstr "Auflösung"
 
 #: src/MainWindow.vala:135
 msgid "×"
-msgstr ""
+msgstr "x"
 
 #: src/MainWindow.vala:136
 msgid "px"
-msgstr ""
+msgstr "Pixel"
 
 #: src/MainWindow.vala:138
 msgid "inches"
-msgstr ""
+msgstr "Zoll"
 
 #: src/MainWindow.vala:142
 msgid "Type:"
-msgstr ""
+msgstr "Typ:"
 
 #: src/MainWindow.vala:318
 #, c-format
@@ -508,4 +508,4 @@ msgstr ""
 
 #: src/Utils.vala:129
 msgid "Enter details about a display to analyze it."
-msgstr ""
+msgstr "Geben Sie Details zu einem Display ein, um sie zu analysieren."
